@@ -1,0 +1,10 @@
+pages/index.js
+export default function Home() {
+  return (
+    <div style={{ padding: "40px", fontFamily: "Arial" }}>
+      <h1>NoiAcquistiamoAuto Roma</h1>
+      <p>Sito in costruzione</p>
+      <p>Valutiamo la tua auto a Roma in modo semplice e veloce.</p>
+    </div>
+  );
+}
